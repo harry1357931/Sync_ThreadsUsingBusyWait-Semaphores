@@ -1,6 +1,6 @@
 Concurrency_SynchThreads-Using-Semaphores-BusyWait
 ==================================================
-This repository contains three independent programs that demonstrate the concept of Concurrency, 
+This repository contains three independent programs that are related to the concepts of Concurrency, 
 Synchronizing Threads, Semaphores and Busy Wait.
 <br>
 <b>Three Projects</b> are:<br>
