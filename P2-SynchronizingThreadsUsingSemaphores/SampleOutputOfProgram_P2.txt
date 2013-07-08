@@ -1,0 +1,176 @@
+Welcome To QUEENS COLLEGE
+[0]Students arrive in school
+[0]Lab will be Open soon 
+[12]STUDENT: 0 : waiting outside the Lab
+[58]STUDENT: 1 : waiting outside the Lab
+[103]STUDENT: 2 : waiting outside the Lab
+[126]STUDENT: 3 : waiting outside the Lab
+[151]STUDENT: 4 : waiting outside the Lab
+[170]STUDENT: 5 : waiting outside the Lab
+[180]STUDENT: 6 : waiting outside the Lab
+[185]STUDENT: 7 : waiting outside the Lab
+[237]STUDENT: 8 : waiting outside the Lab
+[329]STUDENT: 9 : waiting outside the Lab
+[380]Lab Open
+[480]STUDENT: 1 : Enters the Lab
+[481]STUDENT: 10 : Enters the Lab
+[481]STUDENT: 6 : Enters the Lab
+[481]STUDENT: 4 : Enters the Lab
+[481]STUDENT: 2 : Enters the Lab
+[482]STUDENT: 8 : Enters the Lab
+[480]STUDENT: 0 : Enters the Lab
+[482]STUDENT: 3 : Enters the Lab
+[483]STUDENT: 5 : Enters the Lab
+[483]STUDENT: 7 : Enters the Lab
+[483]STUDENT: 9 : Enters the Lab
+[493]STUDENT: 0 :Sending Type A Question No. 1 by email
+[501]STUDENT: 2 :Sending Type A Question No. 1 by email
+[506]STUDENT: 3 :Sending Type A Question No. 1 by email
+[650]STUDENT: 5 :Sending Type A Question No. 1 by email
+[683]STUDENT: 6 :Sending Type A Question No. 1 by email
+[772]STUDENT: 3 :Sending Type A Question No. 2 by email
+[900]STUDENT: 7 :Sending Type A Question No. 1 by email
+[956]STUDENT: 10 :Sending Type A Question No. 1 by email
+[994]STUDENT: 1 :Sending Type A Question No. 1 by email
+[1201]STUDENT: 4 :Sending Type A Question No. 1 by email
+[1244]STUDENT: 9 :Sending Type A Question No. 1 by email
+[1266]STUDENT: 8 :Sending Type A Question No. 1 by email
+[1331]STUDENT: 6 :Sending Type A Question No. 2 by email
+[1429]STUDENT: 5 :Sending Type A Question No. 2 by email
+[1599]STUDENT: 2 :Sending Type A Question No. 2 by email
+[1684]STUDENT: 0 :Sending Type A Question No. 2 by email
+[2070]STUDENT: 4 :Sending Type A Question No. 2 by email
+[2214]STUDENT: 7 :Sending Type A Question No. 2 by email
+[2318]STUDENT: 4 :Sending Type A Question No. 3 by email
+[2428]STUDENT: 8 :Sending Type A Question No. 2 by email
+[2430]STUDENT: 9 :Sending Type A Question No. 2 by email
+[2441]STUDENT: 3 :Sending Type A Question No. 3 by email
+[2981]STUDENT: 6 :Sending Type A Question No. 3 by email
+[3005]Teacher: Arrives at his office
+
+[3036]Teacher: ONLINE OFFICE HOUR BEGINS NOW
+
+[3036]Teacher: Answered the Question(A) No.1 of Student[5]
+[3094]Teacher: Answered the Question(A) No.1 of Student[2]
+[3169]Teacher: Answered the Question(A) No.1 of Student[3]
+[3252]Teacher: Answered the Question(A) No.1 of Student[0]
+[3332]Teacher: Answered the Question(A) No.1 of Student[6]
+[3375]Teacher: Answered the Question(A) No.1 of Student[10]
+[3410]Teacher: Answered the Question(A) No.2 of Student[5]
+[3465]STUDENT: 2 :Sending Type A Question No. 3 by email
+[3500]Teacher: Answered the Question(A) No.1 of Student[8]
+[3540]Teacher: Answered the Question(A) No.1 of Student[4]
+[3579]STUDENT: 7 :Sending Type A Question No. 3 by email
+[3621]Teacher: Answered the Question(A) No.1 of Student[1]
+[3628]Teacher: Answered the Question(A) No.2 of Student[3]
+[3717]Teacher: Answered the Question(A) No.1 of Student[7]
+[3737]Teacher: Answered the Question(A) No.2 of Student[0]
+[3832]Teacher: Answered the Question(A) No.2 of Student[6]
+[3887]Teacher: Answered the Question(A) No.2 of Student[4]
+[3959]Teacher: Answered the Question(A) No.1 of Student[9]
+[4081]Teacher: CHAT SESSION STARTS
+[4081]STUDENT: 10 :Sending via Chatting, (B)Question no. 1
+[4131]Teacher:   Answered the Question(B) No.1 of Student[10]
+[4381]STUDENT: 10 :Sending via Chatting, (B)Question no. 2
+[4383]Teacher:   Answered the Question(B) No.2 of Student[10]
+[4682]STUDENT: 10 :Sending via Chatting, (B)Question no. 3
+[4687]Teacher:   Answered the Question(B) No.3 of Student[10]
+[4687]STUDENT: 5 :Sending via Chatting, (B)Question no. 1
+[4737]Teacher:   Answered the Question(B) No.1 of Student[5]
+[4983]STUDENT: 10 :Browse the Internet Waiting for Online Office Hour to End
+[4988]STUDENT: 5 :Sending via Chatting, (B)Question no. 2
+[4991]Teacher:   Answered the Question(B) No.2 of Student[5]
+[5105]STUDENT: 2 :Sending Type A Question No. 4 by email
+[5288]STUDENT: 5 :Sending via Chatting, (B)Question no. 3
+[5292]Teacher:   Answered the Question(B) No.3 of Student[5]
+[5293]STUDENT: 1 :Sending via Chatting, (B)Question no. 1
+[5343]Teacher:   Answered the Question(B) No.1 of Student[1]
+[5398]STUDENT: 7 :Sending Type A Question No. 4 by email
+[5590]STUDENT: 5 :Browse the Internet Waiting for Online Office Hour to End
+[5593]STUDENT: 1 :Sending via Chatting, (B)Question no. 2
+[5595]Teacher:   Answered the Question(B) No.2 of Student[1]
+[5894]STUDENT: 1 :Sending via Chatting, (B)Question no. 3
+[5899]Teacher:   Answered the Question(B) No.3 of Student[1]
+[5899]STUDENT: 0 :Sending via Chatting, (B)Question no. 1
+[5950]Teacher:   Answered the Question(B) No.1 of Student[0]
+[6194]STUDENT: 1 :Browse the Internet Waiting for Online Office Hour to End
+[6199]STUDENT: 0 :Sending via Chatting, (B)Question no. 2
+[6202]Teacher:   Answered the Question(B) No.2 of Student[0]
+[6202]STUDENT: 9 :Sending via Chatting, (B)Question no. 1
+[6252]Teacher:   Answered the Question(B) No.1 of Student[9]
+[6499]STUDENT: 0 :Browse the Internet Waiting for Online Office Hour to End
+[6503]STUDENT: 9 :Sending via Chatting, (B)Question no. 2
+[6506]Teacher:   Answered the Question(B) No.2 of Student[9]
+[6506]STUDENT: 4 :Sending via Chatting, (B)Question no. 1
+[6557]Teacher:   Answered the Question(B) No.1 of Student[4]
+[6803]STUDENT: 9 :Browse the Internet Waiting for Online Office Hour to End
+[6807]STUDENT: 4 :Sending via Chatting, (B)Question no. 2
+[6809]Teacher:   Answered the Question(B) No.2 of Student[4]
+[6809]STUDENT: 8 :Sending via Chatting, (B)Question no. 1
+[6860]Teacher:   Answered the Question(B) No.1 of Student[8]
+[7107]STUDENT: 4 :Browse the Internet Waiting for Online Office Hour to End
+[7109]STUDENT: 8 :Sending via Chatting, (B)Question no. 2
+[7113]Teacher:   Answered the Question(B) No.2 of Student[8]
+[7113]STUDENT: 3 :Sending via Chatting, (B)Question no. 1
+[7164]Teacher:   Answered the Question(B) No.1 of Student[3]
+[7409]STUDENT: 8 :Browse the Internet Waiting for Online Office Hour to End
+[7413]STUDENT: 3 :Sending via Chatting, (B)Question no. 2
+[7416]Teacher:   Answered the Question(B) No.2 of Student[3]
+[7714]STUDENT: 3 :Sending via Chatting, (B)Question no. 3
+[7718]Teacher:   Answered the Question(B) No.3 of Student[3]
+[7718]STUDENT: 6 :Sending via Chatting, (B)Question no. 1
+[7768]Teacher:   Answered the Question(B) No.1 of Student[6]
+[8014]STUDENT: 3 :Browse the Internet Waiting for Online Office Hour to End
+[8018]STUDENT: 6 :Sending via Chatting, (B)Question no. 2
+[8020]Teacher:   Answered the Question(B) No.2 of Student[6]
+[8020]STUDENT: 2 :Sending via Chatting, (B)Question no. 1
+[8070]Teacher:   Answered the Question(B) No.1 of Student[2]
+[8070]STUDENT: 7 :Sending via Chatting, (B)Question no. 1
+[8121]Teacher:   Answered the Question(B) No.1 of Student[7]
+[8319]STUDENT: 6 :Browse the Internet Waiting for Online Office Hour to End
+[8320]STUDENT: 2 :Browse the Internet Waiting for Online Office Hour to End
+[8371]STUDENT: 7 :Sending via Chatting, (B)Question no. 2
+[8373]Teacher:   Answered the Question(B) No.2 of Student[7]
+[8671]STUDENT: 7 :Sending via Chatting, (B)Question no. 3
+[8675]Teacher:   Answered the Question(B) No.3 of Student[7]
+[8776]Teacher: CHAT SESSION ENDS
+[8776]Teacher: Answered the Question(A) No.2 of Student[2]
+[8806]Teacher: Answered the Question(A) No.2 of Student[9]
+[8845]Teacher: Answered the Question(A) No.2 of Student[7]
+[8887]Teacher: Answered the Question(A) No.3 of Student[4]
+[8955]Teacher: Answered the Question(A) No.2 of Student[8]
+[8972]STUDENT: 7 :Browse the Internet Waiting for Online Office Hour to End
+[8986]Teacher: Answered the Question(A) No.3 of Student[3]
+[9082]Teacher: Answered the Question(A) No.3 of Student[6]
+[9167]Teacher: Answered the Question(A) No.3 of Student[2]
+[9231]Teacher: Answered the Question(A) No.3 of Student[7]
+[9301]Teacher: Answered the Question(A) No.4 of Student[2]
+[9319]Teacher: Answered the Question(A) No.4 of Student[7]
+[9398]Teacher: DONE WITH TYPE 'A' QUESTIONS
+
+[9598]Teacher: ONLINE OFFICE HOUR ENDS NOW
+
+[9648]STUDENT: 5 :Joined the Queue to Leave from Lab in Descending Order
+[9699]STUDENT: 1 :Joined the Queue to Leave from Lab in Descending Order
+[9749]STUDENT: 0 :Joined the Queue to Leave from Lab in Descending Order
+[9800]STUDENT: 9 :Joined the Queue to Leave from Lab in Descending Order
+[9851]STUDENT: 4 :Joined the Queue to Leave from Lab in Descending Order
+[9902]STUDENT: 8 :Joined the Queue to Leave from Lab in Descending Order
+[9952]STUDENT: 3 :Joined the Queue to Leave from Lab in Descending Order
+[10003]STUDENT: 6 :Joined the Queue to Leave from Lab in Descending Order
+[10053]STUDENT: 2 :Joined the Queue to Leave from Lab in Descending Order
+[10104]STUDENT: 7 :Joined the Queue to Leave from Lab in Descending Order
+[10155]Teacher:  TERMINATED....GOING BACK HOME
+[10698]STUDENT: 10 :Will Leave the Lab First
+[10698]STUDENT: 10 :Student LEAVES the Lab
+[10715]STUDENT: 9 :Student LEAVES the Lab
+[10733]STUDENT: 8 :Student LEAVES the Lab
+[10750]STUDENT: 7 :Student LEAVES the Lab
+[10770]STUDENT: 6 :Student LEAVES the Lab
+[10790]STUDENT: 5 :Student LEAVES the Lab
+[10800]STUDENT: 4 :Student LEAVES the Lab
+[10820]STUDENT: 3 :Student LEAVES the Lab
+[10836]STUDENT: 2 :Student LEAVES the Lab
+[10853]STUDENT: 1 :Student LEAVES the Lab
+[10865]STUDENT: 0 :Student LEAVES the Lab
+[10966] Program 2 Ends here (Using Semaphore Implementation)...That's All...You Can Run Again...If U LIKED IT...Thanks
